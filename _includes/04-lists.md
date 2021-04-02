@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Trading
+2. Pizza
+3. Movies
