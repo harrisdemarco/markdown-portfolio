@@ -1,1 +1,1 @@
-! [image of a man](harris.png)
+![image of a man](harris.png)
